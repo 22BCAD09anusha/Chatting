@@ -12,4 +12,8 @@ int main() {
     
     return 0;
 }
+<<<<<<< HEAD
 helooooo bye
+=======
+anusha
+>>>>>>> new19
